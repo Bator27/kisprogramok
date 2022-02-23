@@ -1,0 +1,4 @@
+Ennyit költött Szerdán: 10
+Ennyit költött Szerdán: 12
+Ennyit költött összesen: 22
+Ennyi a különbség: 2
