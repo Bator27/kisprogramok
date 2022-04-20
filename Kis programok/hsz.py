@@ -14,5 +14,3 @@ def terület ():
 
 print(a,b,c)
 print(f'a háromszög kerülete {a+b+c}')
-print('Héron képlet')
-s = k/2
