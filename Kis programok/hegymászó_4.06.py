@@ -38,4 +38,4 @@ hos2 = Szuperhos('Hulk', 70)
 print(hos1)
 print(hos2)
 
-def erosebb(hos1 = Szuperhos='',0))
+def erosebb(hos1 = Szuperhos='yes',0))
